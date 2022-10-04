@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\SpaceFN\bin\Debug\SpaceFN.exe
+C:\Users\User\source\repos\SpaceFN\bin\Debug\SpaceFN.pdb
+C:\Users\User\source\repos\SpaceFN\obj\Debug\SpaceFN.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SpaceFN\obj\Debug\SpaceFN.Form1.resources
+C:\Users\User\source\repos\SpaceFN\obj\Debug\SpaceFN.Properties.Resources.resources
+C:\Users\User\source\repos\SpaceFN\obj\Debug\SpaceFN.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SpaceFN\obj\Debug\SpaceFN.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SpaceFN\obj\Debug\SpaceFN.exe
+C:\Users\User\source\repos\SpaceFN\obj\Debug\SpaceFN.pdb
